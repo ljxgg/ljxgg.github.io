@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljxgg.github.io/</id>
-    <title>LJX码到天荒地老</title>
-    <updated>2019-08-30T08:43:32.301Z</updated>
+    <title>LJX的代码学习网站</title>
+    <updated>2019-08-30T08:44:36.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ljxgg.github.io/"/>
     <link rel="self" href="https://ljxgg.github.io//atom.xml"/>
+    <subtitle>学就完事了</subtitle>
     <logo>https://ljxgg.github.io//images/avatar.png</logo>
     <icon>https://ljxgg.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, LJX码到天荒地老</rights>
+    <rights>All rights reserved 2019, LJX的代码学习网站</rights>
     <entry>
         <title type="html"><![CDATA[hellow world]]></title>
         <id>https://ljxgg.github.io//post/hellow-world</id>
